@@ -1,7 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <TargetFramework>net5.0</TargetFramework>
+        <PackageVersion>0.1.0</PackageVersion>
+        <Description>A MySql wrapper for FSharp.</Description>
+        <PackageProjectUrl>https://github.com/mc738/Froq</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/mc738/Froq</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
