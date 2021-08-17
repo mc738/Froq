@@ -75,4 +75,3 @@ type Query<'p, 'r> =
         
         context.CloseConnection()
         results
-        
